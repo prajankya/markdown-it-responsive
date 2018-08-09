@@ -1,15 +1,19 @@
 {
   "name": "markdown-it-responsive",
   "version": "0.1.0",
-  "homepage": "https://github.com/tatsy/markdown-it-responsive",
+  "homepage": "https://github.com/prajankya/markdown-it-responsive",
   "description": "Markdown-it plugin for responsive images",
   "main": "index.js",
   "keywords": [
     "markdown-it",
-    "markdown-it-plugin"
+    "markdown-it-plugin",
+    "SRCSET",
+    "image"
   ],
   "authors": [
-    "tatsy"
+    "tatsy",
+    "GerHobbelt",
+    "Prajankya"
   ],
   "license": "MIT",
   "ignore": [

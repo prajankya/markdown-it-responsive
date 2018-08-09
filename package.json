@@ -1,22 +1,26 @@
 {
-  "name": "@gerhobbelt/markdown-it-responsive",
-  "version": "0.1.1-3",
+  "name": "@prajankya/markdown-it-responsive",
+  "version": "0.1.4",
   "description": "markdown-it plugin for responsive images",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GerHobbelt/markdown-it-responsive.git"
+    "url": "https://github.com/prajankya/markdown-it-responsive.git"
   },
   "keywords": [
     "markdown-it",
     "markdown-it-plugin"
   ],
   "author": "tatsy",
+  "contributors": [
+    "GerHobbelt",
+    "Prajankya"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tatsy/markdown-it-responsive/issues"
+    "url": "https://github.com/prajankya/markdown-it-responsive/issues"
   },
-  "homepage": "https://github.com/tatsy/markdown-it-responsive",
+  "homepage": "https://github.com/prajankya/markdown-it-responsive",
   "scripts": {
     "test": "make test",
     "build": "make",
