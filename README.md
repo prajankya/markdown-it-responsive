@@ -1,9 +1,9 @@
 markdown-it-responsive
 ===
 
-[![Build Status](https://travis-ci.org/GerHobbelt/markdown-it-responsive.svg)](https://travis-ci.org/GerHobbelt/markdown-it-responsive)
-[![NPM version](https://img.shields.io/npm/v/@gerhobbelt/markdown-it-responsive.svg?style=flat)](https://www.npmjs.org/package/@gerhobbelt/markdown-it-responsive)
-[![Coverage Status](https://coveralls.io/repos/GerHobbelt/markdown-it-responsive/badge.svg)](https://coveralls.io/r/GerHobbelt/markdown-it-responsive)
+[![Build Status](https://travis-ci.org/prajankya/markdown-it-responsive.svg)](https://travis-ci.org/prajankya/markdown-it-responsive)
+[![NPM version](https://img.shields.io/npm/v/@prajankya/markdown-it-responsive.svg?style=flat)](https://www.npmjs.org/package/@prajankya/markdown-it-responsive)
+[![Coverage Status](https://coveralls.io/repos/prajankya/markdown-it-responsive/badge.svg)](https://coveralls.io/r/prajankya/markdown-it-responsive)
 
 > A markdown-it plugin for responsive images. This plugin overloads original image renderer of markdown-it.
 
@@ -58,5 +58,3 @@ is rendered as
 ```html
 <p><img src="header-test.png" srcset="header-test-small.png 320w, header-test-medium.png 640w" sizes="(min-width: 36em) 33.3vw, 100vw" alt="test"></p>
 ```
-
-
